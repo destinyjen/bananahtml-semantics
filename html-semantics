@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Banana HTML Page by Destiny</title>
+</head>
+
+<body>
+    <h1>Bananas</h1></b>
+    <p>A <b>banana</b> is an elongated, edible fruit – botanically a berry[1][2] – produced by several kinds of large
+        herbaceous flowering plants in the genus Musa.[3] In some countries, bananas used for cooking may be called
+        "plantains", distinguishing them from dessert bananas. The fruit is variable in size, color, and firmness, but
+        is usually elongated and curved, with soft flesh rich in starch covered with a rind, which may be green, yellow,
+        red, purple, or brown when ripe. The fruits grow upward in clusters near the top of the plant. Almost all modern
+        edible seedless (parthenocarp) bananas come from two wild species – Musa acuminata and Musa balbisiana. The
+        scientific names of most cultivated bananas are Musa acuminata, Musa balbisiana, and Musa × paradisiaca for the
+        hybrid Musa acuminata × M. balbisiana, depending on their genomic constitution. The old scientific name for this
+        hybrid, Musa sapientum, is no longer used.</p>
+
+    <h2>Etymology</h2>
+
+    <p>The word "banana" is thought to be of West African origin, possibly from the Wolof word banaana, and passed into
+        English via Spanish or Portuguese</p>
+
+    <h2>Taxonomy</h2>
+
+    <p>The genus Musa was created by Carl Linnaeus in 1753.[33] The name may be derived from Antonius Musa, physician to
+        the Emperor Augustus, or Linnaeus may have adapted the Arabic word for banana, mauz.[34] According to Roger
+        Blench, the ultimate origin of musa is in the Trans–New Guinea languages, whence they were borrowed into the
+        Austronesian languages and across Asia, via the Dravidian languages of India, into Arabic as a Wanderwort.[35]
+        Musa is the type genus in the family Musaceae. The APG III system assigns Musaceae to the order Zingiberales,
+        part of the commelinid clade of the monocotyledonous flowering plants. Some 70 species of Musa were recognized
+        by the World Checklist of Selected Plant Families as of January 2013;[33] several produce edible fruit, while
+        others are cultivated as ornamentals.</p>
+
+    <h3> See List below:</h3>
+    <ul>
+        <li>Musa × dacca Horan</li>
+        <li>Musa × sapidisiaca</li>
+        <li>Musa × sapientum</li>
+    </ul>
+
+    <a href="https://en.wikipedia.org/wiki/List_of_banana_cultivars">List of banana Clutivators</a>
+    <img src="./banana2.jpg" alt="Banana Picture">
+
+</body>
+
+</html>
